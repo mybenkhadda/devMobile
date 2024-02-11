@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "82559373928",
+    "project_id": "matjar-74c4a",
+    "storage_bucket": "matjar-74c4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82559373928:android:c3afb239ad326b626b21dd",
+        "android_client_info": {
+          "package_name": "com.example.matjar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq7B2Fpmaojdng4TotO5ptbHZCJE9c7CQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
